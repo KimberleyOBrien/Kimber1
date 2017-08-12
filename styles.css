@@ -1,0 +1,102 @@
+body{
+	 background-color: ivory;
+	font-family: arial;
+	
+}
+
+h1{
+	color: maroon;
+	font-size:46px;
+	font-family: arial;
+	
+}
+
+h2{
+	color: black;
+    text-align:center;
+	font-size:26px;
+	font-family: arial;
+}
+
+h3{
+	color: blue;
+	font-size: 20px;
+	font-family: arial;
+}
+
+p{
+	color: black;
+	font-size:16px;
+	font-family: arial;
+	padding-bottom: 0px;
+	
+}
+
+
+button{
+    background-color: white;
+    border: 2px solid;
+	border-color: darkred;
+	border-radius: 8px;
+	width: 84px;
+	height: 30px;
+    color: black;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+	font-weight: bold;
+	font-family: arial;
+}
+
+submit{
+    background-color: white;
+    border: 2px solid;
+	border-color: darkred;
+	border-radius: 8px;
+	width: 84px;
+	height: 30px;
+    color: black;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+	font-weight: bold;
+	font-family: arial;
+}
+
+fieldset { 
+	font-family: arial;
+	font-weight: bold;
+	font-size: 14px;
+	border-style: solid; 
+	background-color: lightgrey;
+	margin: 0 auto;
+	width: 400px;
+	display: block;
+	border: 2px solid black;
+    display: block;
+    
+}
+
+input {
+	align: right;
+}
+
+hr {
+   display: block;
+   position: relative;
+   padding-top: 0.35em;
+   padding-bottom: 0.625em;
+   margin: 1px auto;
+   height: 0;
+   width: 100%;
+   max-height: 0;
+   font-size: 1px;
+   line-height: 0;
+   clear: both;
+   border: none;
+   border-bottom: 48px solid maroon;
+}
